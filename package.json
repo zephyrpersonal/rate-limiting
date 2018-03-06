@@ -1,0 +1,11 @@
+{
+  "name": "rate-limiting-counter",
+  "version": "1.0.0",
+  "keywords": ["rate limit", "counter"],
+  "description":
+    "generating a counter by rules and trigger when reach the limit",
+  "main": "index.js",
+  "repository": "git@github.com:zephyrpersonal/rate-limiting.git",
+  "author": "zephyr <zhangxin@quancheng-ec.com>",
+  "license": "MIT"
+}
